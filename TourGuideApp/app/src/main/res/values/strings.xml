@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="category_history">Sights</string>
+
+    <string name="category_bars">Bars</string>
+
+    <string name="category_restaurants">Food</string>
+
+    <string name="category_events">Events</string>
+
+    <!-- Event Strings -->
+
+    <string name="event_name_1">Tóth Vera</string>
+    <string name="event_address_1">Bazilika</string>
+
+    <string name="event_name_2">NECC PARTY</string>
+    <string name="event_address_2">Budapest Park</string>
+
+    <string name="event_name_3">Legends Summer</string>
+    <string name="event_address_3">Liget Club</string>
+
+    <string name="event_name_4">Die Antwoord</string>
+    <string name="event_address_4">Budapest Park</string>
+
+    <string name="event_name_5">Cataflamingo</string>
+    <string name="event_address_5">Tinta Art Cafe</string>
+
+    <!-- Bar Strings -->
+
+    <string name="bar_name_1">360 Bar</string>
+    <string name="bar_address_1">Budapest, Andrássy út 39, 1061</string>
+
+    <string name="bar_name_2">Warm Up Cocktail bar</string>
+    <string name="bar_address_2">Budapest, 35, Kazinczy u., 1075</string>
+
+    <string name="bar_name_3">Bar pharma</string>
+    <string name="bar_address_3">Budapest, Andrássy út 39, 1061</string>
+
+    <string name="bar_name_4">Amigo Bar</string>
+    <string name="bar_address_4">Budapest, 35, Kazinczy u., 1075</string>
+
+    <string name="bar_name_5">Boutiq Bar</string>
+    <string name="bar_address_5">Budapest, Andrássy út 39, 1061</string>
+
+    <!-- Restaurant Strings -->
+
+    <string name="restaurant_name_1">Onyx</string>
+    <string name="restaurant_address_1">Budapest, Vörösmarty tér 7, 1051</string>
+
+    <string name="restaurant_name_2">Chef</string>
+    <string name="restaurant_address_2">Budapest, Bajcsy-Zsilinszky út 15c, 1065</string>
+
+    <string name="restaurant_name_3">Comme Chez Soi</string>
+    <string name="restaurant_address_3">Budapest, Vörösmarty tér 7, 1051</string>
+
+    <string name="restaurant_name_4">Meatology Budapest</string>
+    <string name="restaurant_address_4">Budapest, Bajcsy-Zsilinszky út 15c, 1065</string>
+
+    <string name="restaurant_name_5">Arany Kaviár Étterem</string>
+    <string name="restaurant_address_5">Budapest, Vörösmarty tér 7, 1051</string>
+
+    <!-- Historical Sights Strings -->
+
+    <string name="history_name_1">Vajdahunyad Castle</string>
+    <string name="hidtory_address_1">Budapest, Vörösmarty tér 7, 1051</string>
+
+    <string name="history_name_2">Fisherman\'s Bastion</string>
+    <string name="hidtory_address_2">Budapest, Vörösmarty tér 7, 1051</string>
+
+    <string name="history_name_3">Buda Castle</string>
+    <string name="hidtory_address_3">Budapest, Vörösmarty tér 7, 1051</string>
+
+    <string name="history_name_4">Citadella</string>
+    <string name="hidtory_address_4">Budapest, Vörösmarty tér 7, 1051</string>
+
+    <string name="history_name_5">Parliament</string>
+    <string name="hidtory_address_5">Budapest, Vörösmarty tér 7, 1051</string>
+
+</resources>
